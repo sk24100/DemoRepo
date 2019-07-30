@@ -6,6 +6,6 @@ public class LoginTest {
 
 	@Test
 	public void loginTest() {
-		System.out.println("Login into application");
+		System.out.println("Login into application free");
 	}
 }
